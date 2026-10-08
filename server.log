@@ -1,0 +1,10 @@
+192.168.1.10 - 2026-10-08 14:30:15 - INFO - Sunucu basariyla baslatildi.
+192.168.1.50 - 2026-10-08 14:31:00 - FAILED_LOGIN - Hatali sifre denemesi (Kullanici: admin)
+192.168.1.50 - 2026-10-08 14:31:05 - FAILED_LOGIN - Hatali sifre denemesi (Kullanici: admin)
+192.168.1.50 - 2026-10-08 14:31:10 - FAILED_LOGIN - Hatali sifre denemesi (Kullanici: admin)
+192.168.1.50 - 2026-10-08 14:31:15 - FAILED_LOGIN - Hatali sifre denemesi (Kullanici: admin)
+10.0.0.45 - 2026-10-08 14:35:22 - WARNING - Yuksek bellek kullanimi tespit edildi.
+172.16.0.8 - 2026-10-08 14:40:10 - ERROR - Veritabani baglanti zamanasimina ugradi.
+192.168.1.22 - 2026-10-08 14:42:01 - FAILED_LOGIN - Hatali sifre denemesi (Kullanici: root)
+10.0.0.99 - 2026-10-08 14:45:00 - CRITICAL - Sistem coktu, acil mudahale gerekli!
+172.16.0.8 - 2026-10-08 14:48:30 - ERROR - Disk dolulugu %95 seviyesine ulasti.
